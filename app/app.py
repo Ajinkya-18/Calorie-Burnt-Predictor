@@ -67,6 +67,3 @@ if st.button('Predict Calories Burnt'):
 
 
 
-
-
-
