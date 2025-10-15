@@ -15,7 +15,7 @@ st.set_page_config(
 )
 
 try: 
-    model = load_model('A:/AI-Projects/personal-projects/calories-burnt-regression/models/trained_RandomForestRegressor.joblib')
+    model = load_model('models/trained_RandomForestRegressor.joblib')
 
 except ValueError as e:
     st.error(f"Error loading model: {e}")
