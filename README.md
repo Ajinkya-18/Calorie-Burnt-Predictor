@@ -182,3 +182,8 @@ python -m pip install -r requirements.txt
 - Original dataset referenced from Kaggle: [fmendes/fmendesdat263xdemos](https://www.kaggle.com/datasets/fmendes/fmendesdat263xdemos)
 - See `notebooks/Calories_burnt.ipynb` for full exploratory analysis and model selection notes.
 
+## Streamlit App Link
+- App: [calories-burnt-predictor](https://calories-burnt-predictor.streamlit.app/)
+
+
+
